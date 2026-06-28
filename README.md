@@ -1,2 +1,2 @@
 # project---SpendSense
-A simple expense tracking web application built using Python Flask, HTML, CSS
+A Python Flask-based expense management system that allows users to add, view, delete, and analyze daily expenses
